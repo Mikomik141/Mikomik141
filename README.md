@@ -67,7 +67,7 @@ Currently exploring:
 - 🚩 CTF Challenges
 - ⚙️ Reverse Engineering
 
-### Tools I'm learning
+### Tools I'm confident with
 
 `Nmap` • `Wireshark` • `Burp Suite` • `Metasploit` • `Hydra` • `John the Ripper` • `Hashcat`
 
