@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://media1.tenor.com/m/meiDmToBf4sAAAAC/anime-wave.gif" width="180" alt="Anime GIF"/>
+<img src="https://raw.githubusercontent.com/Mikomik141/Mikomik141/main/Interests.png" width="100%" alt="Mikail Banner"/>
 
 # Hey, I'm Mikail 👋
 
